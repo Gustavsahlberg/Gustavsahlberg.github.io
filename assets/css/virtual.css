@@ -100,7 +100,7 @@ body {
 }
 
 a:hover, a:active {
-    color: #2184f5;
+    color: #EF3724;
 }
 
 /* Image Responsive */
@@ -210,8 +210,8 @@ a:hover, a:active {
 /* Color */
 .btn-primary {
     color: #fff;
-    background-color: #22431c;
-    border-color: #22431c;
+    background-color: #d37a70;
+    border-color: #EF3724;
 }
 
 /* Social Button */
@@ -1484,7 +1484,7 @@ a:hover, a:active {
     color: #17a2b8 !important; }
   
   a.text-info:hover, a.text-info:focus {
-    color: #0f6674 !important; }
+    color: #EF3724 !important; }
   
   .text-warning {
     color: #ffc107 !important; }
@@ -1624,15 +1624,15 @@ a:hover, a:active {
       width: 100%;
       max-width: 7rem;
       height: 0.25rem;
-      background-color: #2b6e1e;
+      background-color: #EF3724;
       border-radius: 1rem;
-      border-color: #2b6e1e !important; }
+      border-color: #EF3724 !important; }
       .divider-custom .divider-custom-line:first-child {
         margin-right: 1rem; }
       .divider-custom .divider-custom-line:last-child {
         margin-left: 1rem; }
     .divider-custom .divider-custom-icon {
-      color: #2b6e1e !important;
+      color: #EF3724 !important;
       font-size: 2rem; }
     .divider-custom.divider-light .divider-custom-line {
       background-color: #fff; }
@@ -1762,7 +1762,7 @@ a:hover, a:active {
     top: 1rem;
     font-size: 3rem;
     line-height: 3rem;
-    color: #22431c;
+    color: #EF3724;
     opacity: 1; }
   
   .floating-label-form-group {
